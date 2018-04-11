@@ -27,12 +27,7 @@ namespace TUI.Test2
         }
 
         //static void Main(string[] args)
-        //{
-        //    var sCoord = new GeoCoordinate(48.750000, 2.4);
-        //    var eCoord = new GeoCoordinate(36.8, 10.16);
-
-        //    var test= sCoord.GetDistanceTo(eCoord);
-
+        //{        
         //    object message = new MessageA();
         //    Console.WriteLine("Start");
         //    if (message is MessageA)
